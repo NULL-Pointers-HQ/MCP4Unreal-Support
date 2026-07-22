@@ -6,7 +6,7 @@ Questo è il repository pubblico ufficiale di supporto per MCP4Unreal. [English]
 
 1. Verifica le versioni di MCP4Unreal e Unreal Engine.
 2. Cerca tra le issue esistenti e riduci la riproduzione ai passaggi minimi.
-3. Usa il modulo per [segnalare un bug](../../issues/new?template=bug_report.yml) o [richiedere una funzionalità](../../issues/new?template=feature_request.yml).
+3. Usa il modulo per [segnalare un bug](../../issues/new?template=bug_report.yml&language=Italiano) o [richiedere una funzionalità](../../issues/new?template=feature_request.yml&language=Italiano).
 4. Puoi scrivere in italiano; non serve tradurre il rapporto in inglese.
 
 ## Informazioni da includere

@@ -6,7 +6,7 @@ To oficjalne publiczne repozytorium pomocy dla MCP4Unreal. [English](README.md)
 
 1. Sprawdź wersje MCP4Unreal i Unreal Engine.
 2. Przeszukaj istniejące zgłoszenia i ogranicz reprodukcję do minimum.
-3. Użyj formularza [zgłoszenia błędu](../../issues/new?template=bug_report.yml) lub [prośby o funkcję](../../issues/new?template=feature_request.yml).
+3. Użyj formularza [zgłoszenia błędu](../../issues/new?template=bug_report.yml&language=Polski) lub [prośby o funkcję](../../issues/new?template=feature_request.yml&language=Polski).
 4. Możesz pisać po polsku; tłumaczenie na angielski nie jest wymagane.
 
 ## Wymagane informacje

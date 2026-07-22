@@ -6,7 +6,7 @@
 
 1. Проверьте версии MCP4Unreal и Unreal Engine.
 2. Найдите похожие обращения и сократите воспроизведение до минимальных шагов.
-3. Используйте форму [сообщения об ошибке](../../issues/new?template=bug_report.yml) или [запроса функции](../../issues/new?template=feature_request.yml).
+3. Используйте форму [сообщения об ошибке](../../issues/new?template=bug_report.yml&language=%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9) или [запроса функции](../../issues/new?template=feature_request.yml&language=%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9).
 4. Можно писать по-русски; перевод на английский не требуется.
 
 ## Что указать

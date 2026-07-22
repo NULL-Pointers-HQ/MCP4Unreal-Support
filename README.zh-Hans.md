@@ -6,7 +6,7 @@
 
 1. 确认 MCP4Unreal 和 Unreal Engine 版本。
 2. 搜索现有 Issue，并尽量用最少步骤复现问题。
-3. 使用[错误报告](../../issues/new?template=bug_report.yml)或[功能请求](../../issues/new?template=feature_request.yml)表单。
+3. 使用[错误报告](../../issues/new?template=bug_report.yml&language=%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)或[功能请求](../../issues/new?template=feature_request.yml&language=%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)表单。
 4. 可以使用简体中文，无需翻译成英文。
 
 ## 应包含的信息
