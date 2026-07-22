@@ -6,7 +6,7 @@
 
 1. تحقق من إصدار MCP4Unreal وإصدار Unreal Engine.
 2. ابحث في المشكلات الحالية وحاول إعادة المشكلة بأبسط خطوات ممكنة.
-3. استخدم نموذج [تقرير خطأ](../../issues/new?template=bug_report.yml) أو [طلب ميزة](../../issues/new?template=feature_request.yml).
+3. استخدم نموذج [تقرير خطأ](../../issues/new?template=bug_report.yml&language=%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9) أو [طلب ميزة](../../issues/new?template=feature_request.yml&language=%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9).
 4. يمكنك الكتابة بالعربية؛ لا يلزم ترجمة التقرير إلى الإنجليزية.
 
 ## المعلومات المطلوبة

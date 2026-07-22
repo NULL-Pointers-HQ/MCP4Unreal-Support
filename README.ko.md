@@ -6,7 +6,7 @@ MCP4Unreal의 공식 공개 지원 저장소입니다. [English](README.md)
 
 1. MCP4Unreal 및 Unreal Engine 버전을 확인하세요.
 2. 기존 이슈를 검색하고 가능한 한 적은 단계로 문제를 재현하세요.
-3. [버그 보고](../../issues/new?template=bug_report.yml) 또는 [기능 요청](../../issues/new?template=feature_request.yml) 양식을 사용하세요.
+3. [버그 보고](../../issues/new?template=bug_report.yml&language=%ED%95%9C%EA%B5%AD%EC%96%B4) 또는 [기능 요청](../../issues/new?template=feature_request.yml&language=%ED%95%9C%EA%B5%AD%EC%96%B4) 양식을 사용하세요.
 4. 한국어로 작성할 수 있으며 영어 번역은 필요하지 않습니다.
 
 ## 포함할 정보

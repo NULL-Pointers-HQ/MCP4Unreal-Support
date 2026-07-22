@@ -6,7 +6,7 @@ Bu, MCP4Unreal için resmi herkese açık destek deposudur. [English](README.md)
 
 1. MCP4Unreal ve Unreal Engine sürümlerini doğrulayın.
 2. Mevcut issue'ları arayın ve sorunu mümkün olan en az adımla yeniden üretin.
-3. [Hata bildirimi](../../issues/new?template=bug_report.yml) veya [özellik isteği](../../issues/new?template=feature_request.yml) formunu kullanın.
+3. [Hata bildirimi](../../issues/new?template=bug_report.yml&language=T%C3%BCrk%C3%A7e) veya [özellik isteği](../../issues/new?template=feature_request.yml&language=T%C3%BCrk%C3%A7e) formunu kullanın.
 4. Türkçe yazabilirsiniz; İngilizce çeviri gerekmez.
 
 ## Eklenecek bilgiler

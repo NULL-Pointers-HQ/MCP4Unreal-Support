@@ -6,7 +6,7 @@ MCP4Unreal の公式公開サポートリポジトリです。[English](README.m
 
 1. MCP4Unreal と Unreal Engine のバージョンを確認してください。
 2. 既存の Issue を検索し、できるだけ少ない手順で問題を再現してください。
-3. [バグ報告](../../issues/new?template=bug_report.yml)または[機能リクエスト](../../issues/new?template=feature_request.yml)フォームを使用してください。
+3. [バグ報告](../../issues/new?template=bug_report.yml&language=%E6%97%A5%E6%9C%AC%E8%AA%9E)または[機能リクエスト](../../issues/new?template=feature_request.yml&language=%E6%97%A5%E6%9C%AC%E8%AA%9E)フォームを使用してください。
 4. 日本語で投稿できます。英語への翻訳は不要です。
 
 ## 記載する情報
