@@ -9,8 +9,8 @@ body:
   - type: input
     id: language
     attributes:
-      label: Report language
-      description: Automatically prefilled from the active Unreal Editor language when opened from MCP4Unreal. Otherwise, enter the language used in this report.
+      label: MCP4Unreal editor language
+      description: Automatically prefilled from the active Unreal Editor culture. You may change it if you prefer to write the report in another language.
       placeholder: English, Español, Deutsch, Français, 日本語, or another supported editor language
     validations:
       required: true
