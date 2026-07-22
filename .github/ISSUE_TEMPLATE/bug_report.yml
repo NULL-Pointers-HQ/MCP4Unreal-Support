@@ -1,0 +1,96 @@
+name: Bug report
+description: Report reproducible MCP4Unreal behavior
+title: "[Bug]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Reports are welcome in any MCP4Unreal editor language. Do not include tokens, credentials, private prompts, absolute project paths, minidumps, or unreviewed support bundles.
+  - type: dropdown
+    id: language
+    attributes:
+      label: Report language
+      options:
+        - English
+        - العربية
+        - Deutsch
+        - Español
+        - Español (Latinoamérica)
+        - Français
+        - Italiano
+        - 日本語
+        - 한국어
+        - Polski
+        - Português (Brasil)
+        - Русский
+        - Türkçe
+        - 简体中文
+    validations:
+      required: true
+  - type: input
+    id: plugin-version
+    attributes:
+      label: MCP4Unreal version
+      placeholder: 1.0.0
+    validations:
+      required: true
+  - type: input
+    id: engine-version
+    attributes:
+      label: Unreal Engine version and build
+      placeholder: 5.8.x and build/changelist if known
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Windows version and connection mode
+      placeholder: Windows 11, Streamable HTTP or STDIO
+    validations:
+      required: true
+  - type: textarea
+    id: summary
+    attributes:
+      label: Problem summary
+      description: Describe one problem per issue.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Reproduction steps
+      placeholder: |
+        1.
+        2.
+        3.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected result
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual result
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Redacted log excerpt
+      description: Optional. Keep it short and remove secrets, private paths, prompts, and project details.
+      render: text
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Safety and duplicate checks
+      options:
+        - label: I searched existing issues for the same problem.
+          required: true
+        - label: I reviewed this report and removed tokens, credentials, private prompts, private paths, and unreleased project details.
+          required: true
+        - label: I understand that MCP4Unreal does not need a public support-bundle upload to triage this issue.
+          required: true
